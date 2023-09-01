@@ -2,6 +2,10 @@
 
 Feeding Frenzy Game Created using Java and Javafx
 
+>>> Game Play
+
+https://youtu.be/uEIMflMvy5E?si=NA8HwQu1WkG2V6x_
+
 ![image](https://github.com/1MostafaAyman1/Feeding-Frenzy-Game/assets/80271742/7707f8d2-0708-4ae6-8ba9-d32ff5414602)
 
 1-first you have to install intellja 
