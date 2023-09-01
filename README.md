@@ -37,6 +37,7 @@ https://www.youtube.com/watch?v=viNG3VVnzFE&t=448s&ab_channel=GeekyScript
 ![image](https://github.com/1MostafaAyman1/Feeding-Frenzy-Game/assets/80271742/4f3f9bee-c8cb-4eb9-b7ff-31bad8cf9373)
 
 11-then click ok then apply
+
 12-Finally click on download Amazon Corretto … then Run 😊
 
 ![image](https://github.com/1MostafaAyman1/Feeding-Frenzy-Game/assets/80271742/2a5f51c9-7800-4fe2-ba35-ff4f18837d19)
