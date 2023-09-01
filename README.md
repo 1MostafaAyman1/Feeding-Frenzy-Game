@@ -8,6 +8,7 @@ Feeding Frenzy Game Created using Java and Javafx
 https://www.youtube.com/watch?v=viNG3VVnzFE&t=448s&ab_channel=GeekyScript
 
 2-Javafx is already installed in the Game folder Named “Javafx”
+
 3- right click on feeding frenzy “Top left” 
 
 
